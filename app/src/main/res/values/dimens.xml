@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleTextSize">22sp</dimen>
+    <dimen name="marginButton">2sp</dimen>
+    <dimen name="textSizeDescription">16sp</dimen>
+    <dimen name="textSizeRequirements">13sp</dimen>
+
+    <dimen name="paddingButton">10sp</dimen>
+    <dimen name="marginDescription">5sp</dimen>
+
+</resources>

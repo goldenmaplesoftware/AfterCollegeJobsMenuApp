@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragment.MenuFragment">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:gravity="center"
+        android:text="@string/menu_Name"
+        android:textAlignment="center"
+        android:textSize="@dimen/titleTextSize"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/androidButton"
+            android:layout_width="411dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/marginButton"
+            android:layout_marginStart="@dimen/marginButton"
+            android:layout_marginLeft="@dimen/marginButton"
+            android:layout_marginTop="@dimen/marginButton"
+            android:layout_marginEnd="@dimen/marginButton"
+            android:layout_marginRight="@dimen/marginButton"
+            android:layout_marginBottom="@dimen/marginButton"
+            android:layout_weight="1"
+            android:paddingLeft="@dimen/paddingButton"
+            android:paddingTop="@dimen/paddingButton"
+            android:paddingRight="@dimen/paddingButton"
+            android:paddingBottom="@dimen/paddingButton"
+            android:text="@string/androidTitle" />
+
+        <Button
+            android:id="@+id/fullStackButton"
+            android:layout_width="411dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/marginButton"
+            android:layout_marginStart="@dimen/marginButton"
+            android:layout_marginLeft="@dimen/marginButton"
+            android:layout_marginTop="@dimen/marginButton"
+            android:layout_marginEnd="@dimen/marginButton"
+            android:layout_marginRight="@dimen/marginButton"
+            android:layout_marginBottom="@dimen/marginButton"
+            android:layout_weight="1"
+            android:paddingLeft="@dimen/paddingButton"
+            android:paddingTop="@dimen/paddingButton"
+            android:paddingRight="@dimen/paddingButton"
+            android:paddingBottom="@dimen/paddingButton"
+            android:text="@string/fullStackTitle" />
+
+        <Button
+            android:id="@+id/softwareDevButtonn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/marginButton"
+            android:layout_marginStart="@dimen/marginButton"
+            android:layout_marginLeft="@dimen/marginButton"
+            android:layout_marginTop="@dimen/marginButton"
+            android:layout_marginEnd="@dimen/marginButton"
+            android:layout_marginRight="@dimen/marginButton"
+            android:layout_marginBottom="@dimen/marginButton"
+            android:layout_weight="1"
+            android:paddingLeft="@dimen/paddingButton"
+            android:paddingTop="@dimen/paddingButton"
+            android:paddingRight="@dimen/paddingButton"
+            android:paddingBottom="@dimen/paddingButton"
+            android:text="@string/softwareDevTitle" />
+
+        <Button
+            android:id="@+id/videogamedevButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/marginButton"
+            android:layout_marginStart="@dimen/marginButton"
+            android:layout_marginLeft="@dimen/marginButton"
+            android:layout_marginTop="@dimen/marginButton"
+            android:layout_marginEnd="@dimen/marginButton"
+            android:layout_marginRight="@dimen/marginButton"
+            android:layout_marginBottom="@dimen/marginButton"
+            android:layout_weight="1"
+            android:paddingLeft="@dimen/paddingButton"
+            android:paddingTop="@dimen/paddingButton"
+            android:paddingRight="@dimen/paddingButton"
+            android:paddingBottom="@dimen/paddingButton"
+            android:text="@string/videoGameDevTitle" />
+
+        <Button
+            android:id="@+id/webdevButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/marginButton"
+            android:layout_marginStart="@dimen/marginButton"
+            android:layout_marginLeft="@dimen/marginButton"
+            android:layout_marginTop="@dimen/marginButton"
+            android:layout_marginEnd="@dimen/marginButton"
+            android:layout_marginRight="@dimen/marginButton"
+            android:layout_marginBottom="@dimen/marginButton"
+            android:layout_weight="1"
+            android:paddingLeft="@dimen/paddingButton"
+            android:paddingTop="@dimen/paddingButton"
+            android:paddingRight="@dimen/paddingButton"
+            android:paddingBottom="@dimen/paddingButton"
+            android:text="@string/webDevTitle" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

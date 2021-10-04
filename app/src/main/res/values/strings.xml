@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Comtois Jean 0674826- Lab 1 2 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_Name">Jobs After St.Clair</string>
+    <string name="android_developer_image_for_fragment">android developer image for fragment</string>
+    <string name="androidTitle">Android Developer</string>
+    <string name="textDescriptionAndroid">Android software development is the process by which applications are created for devices running the Android operating system. Google states that "Android apps can be written using Kotlin, Java, and C++ languages" using the Android software development kit, while using other languages is also possible.</string>
+
+    <string name="textRequirementsAndroid">
+    • Create and maintain mobile applications\n
+    • Be involved in all stages of application development, from UI design to final testing\n
+    • Understand system architecture with an eye to scalability and efficiency Requirements\n
+    • University Degree in Computer Science or Engineering preferred\n
+    • Confident, highly motivated, proactive, and efficient, organized, and detail oriented\n
+    • Ability to maintain a flexible working approach while achieving deadlines\n
+    • Passion for technology and isn’t afraid to “do the hard stuff.\n
+    </string>
+
+    <string name="androidLink"><![CDATA[https://ca.indeed.com/jobs?q=Android%20Developer&advn=393264691650981&vjk=981799128c166b37]]></string>
+    <string name="fullStackTitle">Full-Stack-Developer</string>
+    <string name="textDescriptionFullStack">A Full Stack Developer is someone who works with the Back End — or server side — of the application as well as the Front End, or client side. Full Stack Developers have to have some skills in a wide variety of coding niches, from databases to graphic design and UI/UX management in order to do their job well.</string>
+
+
+    <string name="textRequirementsFullStack">
+•	Strong organizational and project management skills.\n
+•	Proficiency with fundamental front-end languages such as HTML, CSS, and JavaScript.\n
+•	Familiarity with JavaScript frameworks such as Angular JS, React, and Amber.\n
+•	Proficiency with server-side languages such as Python, Ruby, Java, PHP, and .Net.\n
+•	Familiarity with database technology such as MySQL, Oracle, and MongoDB.\n
+•	Excellent verbal communication skills.\n
+•	Good problem-solving skills.\n
+•	Attention to detail.\n
+    </string>
+
+    <string name="textRequirementsSoftware">
+•	Bachelors degree in computer science or related degree.\n
+•	Knowledge of the software development life-cycle.\n
+•	The desire to work in a fast-paced environment.\n
+•	Ability to develop unit testing of code components or complete applications.\n
+•	Creativity is always a plus.\n
+•	Must be a full-stack developer and understand concepts of software engineering.\n
+•	Experience working on a variety of software development projects.\n
+•	Deep programming language knowledge\n
+    </string>
+
+    <string name="textRequirementsVideoGame">
+•	Looking at the design specifications of video game designers\n
+•	Writing code to turn the designer’s concepts into a playable game\n
+•	Using application program interfaces (APIs) – a set of pre-built commands that allow different software to interact\n
+•	Programming the game’s terrain\n
+•	Programming artificial intelligence for non-player characters within the game\n
+    </string>
+
+    <string name="textRequirementsWeb">
+•	Bachelors degree in Web development or related field, or relevant experience.\n
+•	Solid knowledge and experience in programming applications.\n
+•	Proficient in JavaScript, HTML, CSS.\n
+•	Proficient in My SQL.\n
+•	Dedicated team player.\n
+•	Ability to thrive in a fast-paced environment.\n
+•	Solid ability in both written and verbal communication.\n
+•	Knowledge of programming language and technical terminology.\n
+•	Able to develop ideas and processes and clearly express them.\n
+•	High degree of independent judgment.\n
+•	Able to solve complex problems.\n
+    </string>
+
+
+    <string name="textDescriptionSoftware">The job of a software developer depends on the needs of the company, organization, or team they are on. Some build and maintain systems that run devices and networks. Others develop applications that make it possible for people to perform specific tasks on computers, cellphones, or other devices.</string>
+    <string name="textDescriptionVideoGame">Video game developers take a designers concepts and build them into a playable game for users. Video game developers, also known as game developers or video game programmers, write code for games for a variety of formats, such as PCs, consoles, web browsers and mobile phones.</string>
+    <string name="textDescriptionWeb">Web developers design and build websites. They are typically responsible for the appearance, of the site and technical aspects, such as site speed and how much traffic the site can handle. Web developers may also create site content that requires technical features.</string>
+
+
+
+    <string name="full_stack_image_fragment">full stack developer image for fragment</string>
+    <string name="fulStackLink"><![CDATA[https://ca.indeed.com/jobs?q=full%20stack%20developer&l&advn=4604790898765676&vjk=f10403b3ebaf7db3]]></string>
+    <string name="softwareLink"><![CDATA[https://ca.indeed.com/jobs?q=software%20developer&l&advn=3374389648696916&vjk=57b23e57f6585c38]]></string>
+    <string name="videoGameLink"><![CDATA[https://ca.indeed.com/jobs?q=video%20game%20developer&l&vjk=6c76a30c2bda57fb]]></string>
+    <string name="webLink"><![CDATA[https://ca.indeed.com/jobs?q=web%20developer&l&advn=4211548538040504&vjk=ed7f4812fed12279]]></string>
+
+
+    <string name="softwareDevTitle">Software Developer</string>
+    <string name="videoGameDevTitle">Video Game Developer</string>
+    <string name="webDevTitle">Web Developer</string>
+    <string name="softwareDesccImg">Software developer image for fragment</string>
+    <string name="vidimage">"Video game image fragment "</string>
+    <string name="webImageDesc">Web development image fragment</string>
+
+
+</resources>

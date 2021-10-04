@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragment.AndroidDeveloper"
+    tools:ignore="UseCompoundDrawables">
+
+    <TextView
+        android:id="@+id/androidTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/androidTitle"
+        android:textAlignment="center"
+        android:textSize="@dimen/titleTextSize"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/androidImage"
+        android:layout_width="match_parent"
+        android:layout_height="217dp"
+        android:layout_gravity="center"
+        android:contentDescription="@string/android_developer_image_for_fragment"
+        android:src="@drawable/andrioddev"
+        android:textStyle="bold"
+        app:srcCompat="@drawable/andrioddev" />
+
+    <TextView
+        android:id="@+id/androidDescriptionID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/marginDescription"
+        android:layout_marginStart="@dimen/marginDescription"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/textDescriptionAndroid"
+        android:textAlignment="viewStart"
+        android:textSize="@dimen/textSizeDescription"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/androidRequirementsID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/marginDescription"
+        android:layout_marginStart="@dimen/marginDescription"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/textRequirementsAndroid"
+        android:textAlignment="textStart"
+        android:textSize="@dimen/textSizeRequirements"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/androidLinkID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/androidLink" />
+
+
+</LinearLayout>

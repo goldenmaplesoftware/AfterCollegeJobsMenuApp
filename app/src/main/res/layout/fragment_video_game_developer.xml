@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragment.AndroidDeveloper"
+    tools:ignore="UseCompoundDrawables">
+
+    <TextView
+        android:id="@+id/videogameDevTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/videoGameDevTitle"
+        android:textAlignment="center"
+        android:textSize="@dimen/titleTextSize"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/vidGameImage"
+        android:layout_width="match_parent"
+        android:layout_height="302dp"
+        android:contentDescription="@string/vidimage"
+        android:src="@drawable/gamedeveloper" />
+
+    <TextView
+        android:id="@+id/videogameDescriptionID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/marginDescription"
+        android:layout_marginStart="@dimen/marginDescription"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/textDescriptionVideoGame"
+        android:textAlignment="viewStart"
+        android:textSize="@dimen/textSizeDescription"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/videogameRequirementsID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/marginDescription"
+        android:layout_marginStart="@dimen/marginDescription"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/textRequirementsVideoGame"
+        android:textAlignment="textStart"
+        android:textSize="@dimen/textSizeRequirements"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/videogameLinkID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/videoGameLink" />
+
+
+</LinearLayout>
